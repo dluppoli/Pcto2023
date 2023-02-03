@@ -1,0 +1,52 @@
+.segnale 
+{
+  margin: 30px;
+}
+.segnale-tondo {
+    width: 150px;
+    height: 150px;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 5px #888888;
+    border-radius: 150px;
+  }
+
+  .segnale-rettangolare {
+    width: 300px;
+    height: 150px;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 5px #888888;
+    border-radius: 10px;
+  }
+
+  .divieto {
+    background-color: #FFFFFF;
+    border: 20px solid #EE0000;
+  }
+
+  .obbligo {
+    background-color: #113192;
+    border: 20px solid #113192;
+    color: white;
+  }
+
+  .taxi
+  {
+    background-color: orange;
+    border: 3px solid black;
+  }
+
+  .content {
+    text-align: center;
+    padding-top: 20px;
+    margin: auto; /*Will center the text*/
+    color: #000000;
+    font-family: Trebuchet MS;
+    font-size: 90px;
+    font-weight: bold;
+  }
+
+  .obbligo .content
+  {
+    color:white;
+  }
+

@@ -1,0 +1,32 @@
+body
+{
+  background-color: #fdfdfd;
+}
+
+h1
+{
+  margin-bottom: 5px;
+}
+
+h3
+{
+  text-align: center;
+}
+
+.subtitle
+{
+  color: brown;
+  margin: 0;
+  font-size: 1em;
+}
+
+.clear
+{
+  clear: both;
+}
+
+.socialicon
+{
+  float:right;
+  margin-top: 25px;
+}
