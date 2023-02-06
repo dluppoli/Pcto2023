@@ -1,0 +1,28 @@
+body
+{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #eee;
+}
+
+.cella
+{
+    width: 80px;
+    height: 80px;
+    border: 1px solid darkgray;
+    float: left;
+    text-align: center;
+    line-height: 80px;
+}
+
+.primo
+{
+    background-color: darkgreen;
+    color: white;
+}
+
+.nonprimo
+{
+    background-color: lightgray;
+}
